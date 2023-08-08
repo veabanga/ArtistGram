@@ -8,17 +8,17 @@ import { Link } from "react-router-dom";
 const Cart = ({ setOpenCart }) => {
   const cartData = [
     {
-      name: "Iphone 14 pro max 256 gb ssd and 8gb ram sliver colour",
+      name: "Candle",
       description: "test",
       price: 999,
     },
     {
-      name: "Iphone 14 pro max 256 gb ssd and 8gb ram sliver colour",
+      name: "Abstract Painting",
       description: "test",
       price: 245,
     },
     {
-      name: "Iphone 14 pro max 256 gb ssd and 8gb ram sliver colour",
+      name: "copper bull statue",
       description: "test",
       price: 645,
     },
